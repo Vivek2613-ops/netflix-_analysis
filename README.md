@@ -1,2 +1,2 @@
-# netflix-_analysis
-Netflix content analysis using SQL
+# Netflix movies and tv shows analysis using sql
+
