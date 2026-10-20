@@ -22,7 +22,9 @@ Explore and categorize content based on specific criteria and keywords.
 11. Find all content without a director
 12. Find in how many movies /TV Shows actor 'Salman Khan' appeared in last 10 years!
 13. Find the top 10 actors who have appeared in most number of movies/tv shows produced in India by Netflix
+    
 14.Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content containing these keywords as 'Bad content' and rest all other content as 'Good content'. Count how many items fall into each category.
+
 15.Find  year and the average numbers of content release in India on netflix. return top 5 year with highest avg content release!
 
 
